@@ -1,2 +1,2 @@
 # comp3170-lab2
-Created with CodeSandbox
+Create a news feed app using React and add a close button
